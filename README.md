@@ -144,14 +144,14 @@ Esta metodología está diseñada para garantizar una experiencia de aprendizaje
     <td>3</td>
     <td>Compuertas y sumador de 1 bit</td>
     <td><a href="/labs/01_lab01/README.md">lab01</a></td>
-    <td>-</td>
+    <td><a href="https://classroom.github.com/a/WHfWXCZO">Link</a></td>
     <td>-</td>
   </tr>
   <tr>
     <td>4</td>
     <td>Intancias y sumador de  4 bits</td>
     <td><a href="/labs/02_lab02/README.md">lab02</a></td>
-    <td>-</td>
+    <td></td>
     <td>-</td>
   </tr>
 
