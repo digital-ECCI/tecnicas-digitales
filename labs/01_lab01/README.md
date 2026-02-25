@@ -1,8 +1,8 @@
-# Lab 01: Sumador de 1 bit y sumador de 4 bits
+# Lab 01: Introducción a lógica combinacional.
 
 Contenido:
 
-- [Lab 01: Sumador de 1 bit y sumador de 4 bits](#lab-01-sumador-de-1-bit-y-sumador-de-4-bits)
+- [Lab 01: Introducción a lógica combinacional.](#lab-01-introducción-a-lógica-combinacional)
   - [1. Objetivos de aprendizaje](#1-objetivos-de-aprendizaje)
   - [2. Fundamento teórico](#2-fundamento-teórico)
       - [Implementación en HDL](#implementación-en-hdl)
