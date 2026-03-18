@@ -151,7 +151,7 @@ Esta metodología está diseñada para garantizar una experiencia de aprendizaje
     <td>4</td>
     <td>Intancias y sumador de  4 bits</td>
     <td><a href="/labs/02_lab02/README.md">lab02</a></td>
-    <td></td>
+    <td><a href="">Link</a></td>
     <td>-</td>
   </tr>
 
