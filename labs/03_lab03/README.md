@@ -90,7 +90,7 @@ Cada grupo debe lograr visualizar, en un display de 7 segmentos, la suma de dos 
 
 ## 4. Entregables
 
-1. Descripción de hardware del sumador/restador.
+1. Descripción de hardware de las Partes 1 y 2.
 
 2. Documentación del ítem anterior en su respectivo archivo ```README.md```.
 
