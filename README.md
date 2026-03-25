@@ -156,9 +156,9 @@ Esta metodología está diseñada para garantizar una experiencia de aprendizaje
   </tr>
   <tr>
     <td>6</td>
-    <td>Implementación en display de 7 segmentos</td>
+    <td>Implementación display de 7 segmentos</td>
     <td><a href="/labs/03_lab03/README.md">lab03</a></td>
-    <td><a href="">Link</a></td>
+    <td><a href="https://classroom.github.com/a/pilGJxKP">Link</a></td>
     <td>-</td>
   </tr>
 
