@@ -161,6 +161,13 @@ Esta metodología está diseñada para garantizar una experiencia de aprendizaje
     <td><a href="https://classroom.github.com/a/pilGJxKP">Link</a></td>
     <td>05/04/2026</td>
   </tr>
+    <tr>
+    <td>7-8</td>
+    <td>Logica secuencial - Cronometro</td>
+    <td><a href="/labs/04_lab04/README.md">lab04</a></td>
+    <td><a href="">Link</a></td>
+    <td></td>
+  </tr>
 </table>
 
 
