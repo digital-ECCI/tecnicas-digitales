@@ -165,6 +165,13 @@ Esta metodología está diseñada para garantizar una experiencia de aprendizaje
     <td>7-8</td>
     <td>Logica secuencial - Cronometro</td>
     <td><a href="/labs/04_lab04/README.md">lab04</a></td>
+    <td><a href="https://classroom.github.com/a/GgFEFRxi">Link</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>Maquinas de estado finitas (FSM) - Semaforo</td>
+    <td><a href="/labs/05_lab05/README.md">lab05</a></td>
     <td><a href="">Link</a></td>
     <td></td>
   </tr>
