@@ -108,7 +108,7 @@ Cree un nuevo proyecto en ISE con los archivos provistos en la plantilla base:
 | Archivo | Descripción |
 |---------|-------------|
 | `traffic_light.v` | Módulo principal FSM |
-| `clk_divider.v`   | Divisor de reloj (100 MHz → 1 Hz) |
+| `clk_divider.v`   | Divisor de reloj (50 MHz → 1 Hz) |
 | `tb_traffic_light.v` | Testbench de simulación |
 
 

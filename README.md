@@ -145,35 +145,35 @@ Esta metodología está diseñada para garantizar una experiencia de aprendizaje
     <td>Compuertas y sumador de 1 bit</td>
     <td><a href="/labs/01_lab01/README.md">lab01</a></td>
     <td><a href="https://classroom.github.com/a/WHfWXCZO">Link</a></td>
-    <td> 03/2026</td>
+    <td> 03-2026</td>
   </tr>
   <tr>
     <td>4</td>
     <td>Intancias y sumador de  4 bits</td>
     <td><a href="/labs/02_lab02/README.md">lab02</a></td>
     <td><a href="https://classroom.github.com/a/suLFM-MT">Link</a></td>
-    <td>01/04/2026</td>
+    <td>01-04-2026</td>
   </tr>
   <tr>
     <td>6</td>
     <td>Implementación display de 7 segmentos</td>
     <td><a href="/labs/03_lab03/README.md">lab03</a></td>
     <td><a href="https://classroom.github.com/a/pilGJxKP">Link</a></td>
-    <td>05/04/2026</td>
+    <td>05-04-2026</td>
   </tr>
     <tr>
     <td>7-8</td>
     <td>Logica secuencial - Cronometro</td>
     <td><a href="/labs/04_lab04/README.md">lab04</a></td>
     <td><a href="https://classroom.github.com/a/GgFEFRxi">Link</a></td>
-    <td></td>
+    <td>08-05-2026</td>
   </tr>
   <tr>
     <td>10</td>
     <td>Maquinas de estado finitas (FSM) - Semaforo</td>
     <td><a href="/labs/05_lab05/README.md">lab05</a></td>
     <td><a href="">Link</a></td>
-    <td></td>
+    <td>15-05-2026</td>
   </tr>
 </table>
 
