@@ -175,6 +175,13 @@ Esta metodología está diseñada para garantizar una experiencia de aprendizaje
     <td><a href="">Link</a></td>
     <td>15-05-2026</td>
   </tr>
+    <tr>
+    <td>12-16</td>
+    <td>Proyecto Final</td>
+    <td><a href="/labs/06_lab06/README.md">lab06</a></td>
+    <td><a href="">Link</a></td>
+    <td>15-05-2026</td>
+  </tr>
 </table>
 
 
