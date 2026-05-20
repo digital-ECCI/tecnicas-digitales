@@ -230,20 +230,6 @@ Programe la MAX 10 y demuestre simultáneamente al docente:
 - La LCD muestra el estado correcto en la línea 1.
 - El contador de segundos en la línea 2 decrece correctamente y se actualiza al cambiar de estado.
 
----
-
-## 7. Preguntas de Análisis
-
-1. ¿Por qué se usa interfaz de **4 bits** en lugar de 8 bits para la LCD? ¿Qué se gana y qué se sacrifica en términos de pines y velocidad de escritura?
-
-2. Dibuje la FSM completa del controlador LCD con **todos sus estados** — incluyendo las fases de inicialización, escritura y actualización. Indique las condiciones de transición.
-
-3. ¿Qué problema ocurriría si el módulo `lcd_ctrl` intenta actualizar la pantalla **mientras aún está ejecutando la secuencia de inicialización**? ¿Cómo lo previene su diseño?
-
-
-4. El tiempo restante se calcula como `DURACION - cnt`. Si `cnt` se actualiza a 1 Hz pero el controlador LCD tarda hasta 50 ms en refrescar la pantalla, ¿puede haber inconsistencia entre el valor en la LCD y el LED encendido? ¿Cómo lo resolvería?
-
----
 
 ## Entregables
 

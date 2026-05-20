@@ -172,14 +172,14 @@ Esta metodología está diseñada para garantizar una experiencia de aprendizaje
     <td>10</td>
     <td>Maquinas de estado finitas (FSM) - Semaforo</td>
     <td><a href="/labs/05_lab05/README.md">lab05</a></td>
-    <td><a href="">Link</a></td>
+    <td><a href="https://classroom.github.com/a/9pPdVECe">Link</a></td>
     <td>15-05-2026</td>
   </tr>
     <tr>
     <td>12-16</td>
     <td>Proyecto Final</td>
     <td><a href="/labs/06_lab06/README.md">lab06</a></td>
-    <td><a href="">Link</a></td>
+    <td><a href="https://classroom.github.com/a/u8eMlJeo">Link</a></td>
     <td>15-05-2026</td>
   </tr>
 </table>
